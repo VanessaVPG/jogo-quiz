@@ -144,6 +144,6 @@ function fimDoJogo() {
   
 
 setTimeout(function () {
-  document.body.innerHTML = "<h1 class ='game-over'>Fim de jogo...Temos algumas perguntas para você!</h1>,<a class='clicar' href='index.html'>Não clique aqui!!!!!</a>, <a class='clicar' href='revista-darc-pbqz7zetj-vanessavpg.vercel.app'>REVISTA</a> "; 
+  document.body.innerHTML = "<h1 class ='game-over'>Fim de jogo...Temos algumas perguntas para você!</h1>,<a class='clicar' href='index.html'>Não clique aqui!!!!!</a>, <a class='clicar' href='https://revista-darc-pbqz7zetj-vanessavpg.vercel.app/'>REVISTA</a> "; 
 }, 5000);
 }
