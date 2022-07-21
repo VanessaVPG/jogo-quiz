@@ -1,0 +1,121 @@
+{
+   "questoes":[
+      {
+         "numQuestao":0,
+         "pergunta":"pergunta",
+         "alternativaA":"Alternativa A",
+         "alternativaB":"Alternativa B",
+         "alternativaC":"Alternativa C",
+         "alternativaD":"Alternativa D",
+         "correta":"0"
+      },
+      {
+         "numQuestao":1,
+         "pergunta":"A ciência foi um espaço conquistado gradualmente pelas mulheres até os tempos de hoje. Nessa primeira edição, citamos a histórica ganhadora de 3 prêmios Nobel, sendo 2 em física e 1 em química. Agora relembre e nos diga quem foi essa ilustre personalidade da história do feminismo?",
+         "alternativaA":"Joana d'Arc",
+         "alternativaB":"Chimamanda Ngozi Adichie",
+         "alternativaC":"Maria Quitéria de Jesus",
+         "alternativaD":"Marie Curie",
+         "correta":"Marie Curie"
+      },
+      {
+         "numQuestao":2,
+         "pergunta":"O que era crime em pleno 2002 apenas para as mulheres?",
+         "alternativaA":"Escrever",
+         "alternativaB":"Ler",
+         "alternativaC":"Não ser virgem",
+         "alternativaD":"Dirigir",
+         "correta":"Não ser virgem"
+      },
+      {
+         "numQuestao":3,
+         "pergunta":"O data da primeira vez que a mulher teve o direito a voto foi:",
+         "alternativaA":"Colonial",
+         "alternativaB":"Contemporâneo",
+         "alternativaC":"Moderno",
+         "alternativaD":"Medieval",
+         "correta":"Colonial"
+      },
+      {
+         "numQuestao":4,
+         "pergunta":"Em 1921, no Brasil, ocorreu uma partida de futebol feminino entre mulheres dos bairros de Tremembé e Cantareira, na zona norte de São Paulo. O jogo chegou a ser noticiado por jornais impressos da época como uma coisa “curiosa e cômica”.  Por que os jornais impressos se referiram ao futebol feminino que ocorreu como “curiosa e cômica”?",
+         "alternativaA":"As mulheres sempre puderam jogar futebol e era cômico elas escolherem o futebol como o esporte para se praticar entre bairros",
+         "alternativaB":"As mulheres que nunca foram presas por jogarem futebol antes, passariam a serem presas a partir de 1921 se jogassem futebol e isso dura até hoje",
+         "alternativaC":"Futebol feminino era proibido por lei",
+         "alternativaD":"O jornal achou que era um jogo de futebol masculino",
+         "correta":"Futebol feminino era proibido por lei"
+      },
+      {
+         "numQuestao":5,
+         "pergunta":"Em 1827 foi aprovada a lei que permitia que mulheres finalmente:",
+         "alternativaA":"Frequentassem faculdades",
+         "alternativaB":"Frequentassem colégios",
+         "alternativaC":"Se divorciassem",
+         "alternativaD":"podiam receber o título de chef de cozinha",
+         "correta":"Frequentassem colégios"
+      },
+      {
+         "numQuestao":6,
+         "pergunta":"Qual lei foi assinada pela Princesa Isabel e determinava que os filhos das mulheres escravizadas na época do Império nasciam livres?",
+         "alternativaA":"Lei do Feminicídio",
+         "alternativaB":"Lei do Ventre Livre",
+         "alternativaC":"Lei Maria da Penha",
+         "alternativaD":"Lei Áurea",
+         "correta":"Lei do Ventre Livre"
+      },
+      {
+         "numQuestao":7,
+         "pergunta":"A resolução de salário igual para homens e mulheres são para situações em que:",
+         "alternativaA":"A mulher trabalha mais que o homem mesmo exercendo a mesma função",
+         "alternativaB":"Ambos exercem a mesma função",
+         "alternativaC":"O homem exerce a mesma função que a mulher, porém faz metade do trabalho que ela faz",
+         "alternativaD":"A mulher não precisa trabalhar para receber salário",
+         "correta":"Ambos exercem a mesma função"
+      },
+      {
+         "numQuestao":8,
+         "pergunta":"Quando ainda nem existia o voto feminino, Alzira Soriano de Souza abriu espaço para as mulheres na política. Ela foi a primeira mulher a assumir o governo de uma cidade não apenas no Brasil, mas na América Latina inteira. Qual o cargo ela tinha?",
+         "alternativaA":"Prefeita",
+         "alternativaB":"Presidenta",
+         "alternativaC":"Governadora",
+         "alternativaD":"Ministra",
+         "correta":"Prefeita"
+      },
+      {
+         "numQuestao":9,
+         "pergunta":"As mulheres sempre puderam participar das Olimpiadas?",
+         "alternativaA":"Sim",
+         "alternativaB":"Não, as mulheres até hoje são proibidas de participar",
+         "alternativaC":"Sim, mas a partir de 2030 serão proibidas ",
+         "alternativaD":"Não, Maria Lenk foi a primeira mulher a participar das Olimpíadas",
+         "correta":"Não, Maria Lenk foi a primeira mulher a participar das Olimpíadas"
+      },
+      {
+         "numQuestao":10,
+         "pergunta":"Em 1937, o Estado Novo de Getúlio Vargas decretou que mulheres só podiam praticar esportes que condissessem com suas condições físicas. Lutas, futebol, polo, beisebol e halterofilismo estavam expressamente proibidos. Em 1979, quatro mulheres se inscreveram com nomes masculinos no Campeonato Sul Americano de Judô. Qual foi a consequencia que o Brasil sofreu por essa atitude?",
+         "alternativaA":"Empatou, mas se fosse pelas mulheres no time, teriam ganhado",
+         "alternativaB":"Perdeu o campeonato",
+         "alternativaC":"Conquistou o título devido justamente aos pontos dessas atletas",
+         "alternativaD":"Desistiu do campeonato porque descobriram que haviam mulheres no time",
+         "correta":"Conquistou o título devido justamente aos pontos dessas atletas"
+      },
+      {
+         "numQuestao":11,
+         "pergunta":"Quando as Forças Armadas brasileiras passou a aceitar também mulheres?",
+         "alternativaA":"1992",
+         "alternativaB":"Nunca, até hoje não aceitam",
+         "alternativaC":"As mulheres sempre foram aceitas nas Forças Armadas brasileira ",
+         "alternativaD":"Nunca, até hoje não aceitam",
+         "correta":"1992"
+      },
+      {
+         "numQuestao":12,
+         "pergunta":"A quilombola Dandara, outra ilustre personagem do feminismo, viveu no Brasil em que período?",
+         "alternativaA":"Colonial",
+         "alternativaB":"Contemporâneo",
+         "alternativaC":"Medieval",
+         "alternativaD":"Moderno",
+         "correta":"Colonial"
+      }
+   ]
+}

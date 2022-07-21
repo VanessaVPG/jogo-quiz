@@ -1,0 +1,86 @@
+body{
+    margin-inline:auto;
+    background: black;
+    width: 1000px;
+    height: auto;
+}
+.personagem{
+    width: 100px;
+    height: 100px;
+    position:absolute;
+    bottom:0;
+    background:url('/assets/personagem.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.barril{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    bottom: 0;
+    background: blue;
+    background: url('/assets/barril.png');
+    background-size: contain;
+}
+.game-over{
+    text-align: center;
+    color: #666666;
+    font-weight: 400;
+    margin-top: 3rem;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+@keyframes movimento {
+    0%   {background-color:black; color:aqua; left:0px; top:0px;}
+    25%  {background-color:yellow; color:black; left:200px; top:0px;}
+    50%  {background-color:white; color:blueviolet; left:200px; top:200px;}
+    75%  {background-color:black; color:yellow; left:0px; top:200px;}
+    100% {background-color:yellow; color:black; left:0px; top:0px;}
+  }
+.clicar{
+    display: flex;
+    justify-content: center;
+    margin-inline: auto;
+    text-align: center;
+    color: blueviolet;
+    border-radius: 30px;
+    border: 3px solid;
+    padding: 10px;
+    width: 300px;
+    font-size: 50px;
+    animation-name: movimento;
+    position: relative;
+  animation-duration: 4s;
+  animation-iteration-count: 3;
+}
+@keyframes mouseOn{
+    from {color: aqua;}
+    to {color: yellow;}
+
+}
+
+.clicar:hover{
+    color: aqua;
+    animation:mouseOn;
+    animation-duration: 4s;
+}
+
+@keyframes slideRight {
+    from{
+        background-position: 70000%;
+    }
+    to{
+        background-position: 0%;
+    }
+}
+.background{
+    position:absolute;
+    bottom:0;
+    background: url('/assets/cenario.png');
+    background-repeat: repeat-x;
+    background-size: contain;
+    animation:slideRight 700s infinite linear;
+    width: 1000px;
+    height: 200px;
+    border-radius: 30px;
+}
